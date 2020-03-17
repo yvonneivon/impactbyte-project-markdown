@@ -16,3 +16,9 @@
 - [John Wick 3](https://youtu.be/pU8-7BX9uxs)
 - [Joker](https://youtu.be/rgXplohCw5o)
 - [A Quite Place](https://youtu.be/WR7cc5t7tv8)
+
+<p>Those are great movies to accompany your weekend! be sure to check them out!</p> 
+
+**A Quite Place Part II** is coming to theater this **March!**
+
+![A Quite Place Part II](https://s3-ap-southeast-2.amazonaws.com/content.communitynews.com.au/2020/02/26140152/00000000000000000000000000000AQ-1000x500.jpg)
