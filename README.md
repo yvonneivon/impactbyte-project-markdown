@@ -8,3 +8,11 @@
 3. John Wick 3
 4. Joker
 5. A Quite Place
+
+<p>Watch trailers here:</p>
+
+- [Parasite](https://youtu.be/SEUXfv87Wpk)
+- [1917](https://youtu.be/YqNYrYUiMfg)
+- [John Wick 3](https://youtu.be/pU8-7BX9uxs)
+- [Joker](https://youtu.be/rgXplohCw5o)
+- [A Quite Place](https://youtu.be/WR7cc5t7tv8)
